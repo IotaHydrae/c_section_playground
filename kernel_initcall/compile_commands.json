@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-DFOO=bar",
+            "-o",
+            "test.out",
+            "test.c"
+        ],
+        "directory": "/home/developer/sources/c_section_playground/kernel_initcall",
+        "file": "test.c"
+    }
+]
